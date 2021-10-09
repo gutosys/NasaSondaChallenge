@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace NasaSondaChallenge.Core.Entities
 {
     public class Sonda
     {
+        public Sonda()
+        {
+            Comandos = new List<char>();
+        }
+
         public Posicao Posicao { get; set; }
+        public List<char> Comandos { get; set; }
     }
 }

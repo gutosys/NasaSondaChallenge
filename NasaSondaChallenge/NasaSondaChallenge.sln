@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaSondaChallenge.Core", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaSondaChallenge.Service", "NasaSondaChallenge.Service\NasaSondaChallenge.Service.csproj", "{E2E36892-61BC-4F9E-AE17-F6311933C974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaSondaChallenge.Repository", "NasaSondaChallenge.Repository\NasaSondaChallenge.Repository.csproj", "{89BD7F6C-783F-4FFB-93A8-55273D84B93E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaSondaChallenge", "NasaSondaChallenge\NasaSondaChallenge.csproj", "{B3EC6495-960C-4088-B5AB-E05627E29968}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{E2E36892-61BC-4F9E-AE17-F6311933C974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2E36892-61BC-4F9E-AE17-F6311933C974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2E36892-61BC-4F9E-AE17-F6311933C974}.Release|Any CPU.Build.0 = Release|Any CPU
-		{89BD7F6C-783F-4FFB-93A8-55273D84B93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89BD7F6C-783F-4FFB-93A8-55273D84B93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89BD7F6C-783F-4FFB-93A8-55273D84B93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89BD7F6C-783F-4FFB-93A8-55273D84B93E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3EC6495-960C-4088-B5AB-E05627E29968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3EC6495-960C-4088-B5AB-E05627E29968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3EC6495-960C-4088-B5AB-E05627E29968}.Release|Any CPU.ActiveCfg = Release|Any CPU

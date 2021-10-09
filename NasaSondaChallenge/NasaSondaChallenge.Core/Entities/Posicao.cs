@@ -4,8 +4,8 @@ namespace NasaSondaChallenge.Core.Entities
 {
     public class Posicao
     {
-        public string PosicaoX { get; set; }
-        public string PosicaoY { get; set; }
-        public DirecaoCardinalEnum DirecaoCardinal { get; set; }
+        public int PosicaoX { get; set; }
+        public int PosicaoY { get; set; }
+        public string DirecaoCardinal { get; set; }
     }
 }
