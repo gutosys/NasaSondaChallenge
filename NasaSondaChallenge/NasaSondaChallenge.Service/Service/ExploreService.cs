@@ -52,7 +52,7 @@ namespace NasaSondaChallenge.Service.Service
             }
         }
 
-        private List<Sonda> MovimentaSonda(List<Sonda> sondaList)
+        public List<Sonda> MovimentaSonda(List<Sonda> sondaList)
         {
             const char move = 'M';
             const char left = 'L';
